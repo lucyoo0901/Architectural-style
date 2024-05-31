@@ -1,10 +1,10 @@
-﻿Style,curvature,c-type,color,cd-type,transparency,t-type,combination,,,,,
-Antoni Gaudi,0.779928292,curvilinear,0.864803424,colorful,0.351198601,translucent,type2,,,,,
-Frank Gehry,0.706605018,curvilinear,0.588418209,muted,0.41142712,translucent,type5,,,,,
-Frank Lloyd Wright,0.222594067,rectilinear,0.635016854,muted,0.308709918,opaque,type24,,,,,
-Leoh Ming Pei,0.47582772,moderate,0.49879971,muted,0.621746529,translucent,type14,,,,,
-Luis Barragan,0.157266761,rectilinear,0.981119868,colorful,0.180245549,opaque,type21,,,,,
-Le Corbusier,0.074084986,rectilinear,0.179741798,grayscale,0.178584108,opaque,type27,,,,,
-Louis Kahn,0.223776406,rectilinear,0.5087,muted,0.161219671,opaque,type24,,,,,
-SANAA,0.610350323,moderate,0.360451843,muted,0.601723757,translucent,type14,,,,,
-Tadao Ando,0.197468391,rectilinear,0.089616166,grayscale,0.263916085,opaque,type27,,,,,
+﻿Style,curvature,c-type,saturation,s-type,transparency,t-type,combination
+Antoni Gaudi,0.779928292,curvilinear,0.864803424,colorful,0.351198601,translucent,type2
+Frank Gehry,0.706605018,curvilinear,0.588418209,muted,0.41142712,translucent,type5
+Frank Lloyd Wright,0.222594067,rectilinear,0.635016854,muted,0.308709918,opaque,type24
+Leoh Ming Pei,0.47582772,moderate,0.49879971,muted,0.621746529,translucent,type14
+Luis Barragan,0.157266761,rectilinear,0.981119868,colorful,0.180245549,opaque,type21
+Le Corbusier,0.074084986,rectilinear,0.179741798,grayscale,0.178584108,opaque,type27
+Louis Kahn,0.223776406,rectilinear,0.5087,muted,0.161219671,opaque,type24
+SANAA,0.610350323,moderate,0.360451843,muted,0.601723757,translucent,type14
+Tadao Ando,0.197468391,rectilinear,0.089616166,grayscale,0.263916085,opaque,type27

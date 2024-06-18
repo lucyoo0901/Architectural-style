@@ -1,4 +1,4 @@
 ﻿concept,concept-label,0,1
-curvature,rectilinear(0)~curvilinear(1),"rectilinear building shape, linear, straight","curvilinear building shape, curved, serpentine"
-saturation,achromatic(0)~chromatic(1),"achromatic material, grayscale building","chromatic material, colorful building, hued building, colored, pigmented"
-transparency,opaque(0)~transparent(1),"solid building, opaque building, enclosed structure, impenetrable building","glazed façade, transparent edifice, see-through structure, glass building"
+curvature,rectilinear(0)~curvilinear(1),"rectilinear building shape, linear, straight","curvilinear building shape, curved, serpentine, organic shape building"
+saturation,achromatic(0)~chromatic(1),"achromatic material, grayscale building, black and white material, none-hued material, no colored material","chromatic material, colorful building, hued building, colored, pigmented, vivid color building"
+transparency,opaque(0)~transparent(1),"solid building, opaque building, enclosed structure, impenetrable building, no windows, none-reflective façade","glazed façade, totally transparent edifice, see-through structure, completely glazed building, reflected façade, permeable façade"

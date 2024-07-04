@@ -1,4 +1,4 @@
 ﻿,0-0.3333,0.3334-0.6666,0.6667-1
-c-type,rectilinear,moderate,curvilinear
-s-type,greyscale,muted,colorful
-t-type,opaque,translucent,transparent
+c-classification,rectilinear,moderate,curvilinear
+s-classification,greyscale,muted,colorful
+t-classification,opaque,translucent,transparent

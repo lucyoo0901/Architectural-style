@@ -1,4 +1,4 @@
 ﻿,low,mid,high
-c-classification,rectilinear,moderate,curvilinear
-s-classification,greyscale,muted,colorful
-t-classification,opaque,translucent,transparent
+curvature,rectilinear,moderate,curvilinear
+saturation,greyscale,muted,colorful
+transparency,opaque,translucent,transparent

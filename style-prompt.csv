@@ -1,4 +1,4 @@
 ﻿concept,concept-label,0,1
 curvature,rectilinear(0)~curvilinear(1),"rectilinear building shape, linear, building with straight lines and angular shape, straight lines, geometric","building with completely organic curves, wavy lines,highly flowing lines, and very wavy shapes, non-geometric"
-saturation,achromatic(0)~chromatic(1),"building in purely grayscale, black or white, or grey, or no color, blue sky","building of vivid colors, highly saturated hues and very colorful"
-transparency,opaque(0)~transparent(1),"solid building, opaque building, enclosed structure, impenetrable building, no windows, continous opaque walls","glazed façade, transparent edifice, see-through structure, glass wall, large windows, punctual structures"
+saturation,achromatic(0)~chromatic(1),"building in purely grayscale, greyscale, black or white, or no color","building of vivid colors, highly saturated hues and very colorful"
+transparency,opaque(0)~transparent(1),"solid building, opaque building, enclosed structure, impenetrable building, no windows","glazed façade, transparent edifice, see-through structure, glass wall, large windows, punctual open structures"

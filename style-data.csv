@@ -1,23 +1,23 @@
-﻿Style,curvature,c-classification,saturation,s-classification,transparency,t-classification,combination
-Alvar Aalto,0.288853309,rectilinear,0.303956617,greyscale,0.305538137,opaque,type 27
-Aldo Rossi,0.283847326,rectilinear,0.479582463,muted,0.184563591,opaque,type 24
-Alvaro Siza,0.380702405,moderate,0.368050898,muted,0.235961442,opaque,type 15
-Antoni Gaudi,0.690052814,curvilinear,0.660377232,muted,0.233497852,opaque,type 6
-Bjarke Ingels,0.574645437,moderate,0.477606257,muted,0.404779349,translucent,type 14
-Christian de Prtzamparc,0.527084059,moderate,0.326167272,greyscale,0.47182524,translucent,type 17
-David Chipperfield,0.390557735,moderate,0.257227299,greyscale,0.477850618,translucent,type 17
-Frank Gehry,0.78644514,curvilinear,0.406741062,muted,0.401536419,translucent,type 5
-Frank Lloyd Wright,0.506276392,moderate,0.466126101,muted,0.15973876,opaque,type 15
-Leoh Ming Pei,0.516342437,moderate,0.531664725,muted,0.490683502,translucent,type 14
-Luis Barragan,0.268336295,rectilinear,0.987539618,colorful,0.165844951,opaque,type 21
-Le Corbusier,0.22874527,rectilinear,0.36616796,muted,0.200698687,opaque,type 24
-Louis Kahn,0.32457253,rectilinear,0.433375772,muted,0.200482564,opaque,type 24
-Mies Van Der Rohe,0.253339491,rectilinear,0.285850283,greyscale,0.43081812,translucent,type 26
-Norman Foster,0.563169858,moderate,0.464939228,muted,0.381429923,translucent,type 14
-Peter Zumthor,0.301308778,rectilinear,0.308882045,greyscale,0.256128946,opaque,type 27
-Richard Meier,0.500987649,moderate,0.390215632,muted,0.479056781,translucent,type 14
-Renzo Piano,0.512004853,moderate,0.53349071,muted,0.49537349,translucent,type 14
-Shigeru Ban,0.564324505,moderate,0.643710296,muted,0.371025851,translucent,type 14
-SANAA,0.642012476,moderate,0.464710033,muted,0.627822224,translucent,type 14
-Tadao Ando,0.444644578,moderate,0.161098996,greyscale,0.320705947,opaque,type 18
-Zaha Hadid,0.892665364,curvilinear,0.402180637,muted,0.279669024,opaque,type 6
+﻿Style,curvature,c-classification,saturation,s-classification,transparency,t-classification,symmetry,m-classification,combination
+Alvar Aalto,0.288853309,rectilinear,0.303956617,greyscale,0.305538137,opaque,0,unknown,type 27
+Aldo Rossi,0.283847326,rectilinear,0.479582463,muted,0.184563591,opaque,0,unknown,type 24
+Alvaro Siza,0.380702405,moderate,0.368050898,muted,0.235961442,opaque,0,unknown,type 15
+Antoni Gaudi,0.690052814,curvilinear,0.660377232,muted,0.233497852,opaque,0,unknown,type 6
+Bjarke Ingels,0.574645437,moderate,0.477606257,muted,0.404779349,translucent,0,unknown,type 14
+Christian de Prtzamparc,0.527084059,moderate,0.326167272,greyscale,0.47182524,translucent,0,unknown,type 17
+David Chipperfield,0.390557735,moderate,0.257227299,greyscale,0.477850618,translucent,0,unknown,type 17
+Frank Gehry,0.78644514,curvilinear,0.406741062,muted,0.401536419,translucent,0,unknown,type 5
+Frank Lloyd Wright,0.506276392,moderate,0.466126101,muted,0.15973876,opaque,0,unknown,type 15
+Leoh Ming Pei,0.516342437,moderate,0.531664725,muted,0.490683502,translucent,0,unknown,type 14
+Luis Barragan,0.268336295,rectilinear,0.987539618,colorful,0.165844951,opaque,0,unknown,type 21
+Le Corbusier,0.22874527,rectilinear,0.36616796,muted,0.200698687,opaque,0,unknown,type 24
+Louis Kahn,0.32457253,rectilinear,0.433375772,muted,0.200482564,opaque,0,unknown,type 24
+Mies Van Der Rohe,0.253339491,rectilinear,0.285850283,greyscale,0.43081812,translucent,0,unknown,type 26
+Norman Foster,0.563169858,moderate,0.464939228,muted,0.381429923,translucent,0,unknown,type 14
+Peter Zumthor,0.301308778,rectilinear,0.308882045,greyscale,0.256128946,opaque,0,unknown,type 27
+Richard Meier,0.500987649,moderate,0.390215632,muted,0.479056781,translucent,0,unknown,type 14
+Renzo Piano,0.512004853,moderate,0.53349071,muted,0.49537349,translucent,0,unknown,type 14
+Shigeru Ban,0.564324505,moderate,0.643710296,muted,0.371025851,translucent,0,unknown,type 14
+SANAA,0.642012476,moderate,0.464710033,muted,0.627822224,translucent,0,unknown,type 14
+Tadao Ando,0.444644578,moderate,0.161098996,greyscale,0.320705947,opaque,0,unknown,type 18
+Zaha Hadid,0.892665364,curvilinear,0.402180637,muted,0.279669024,opaque,0,unknown,type 6

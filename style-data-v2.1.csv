@@ -1,0 +1,31 @@
+﻿Style,curvature,c-std.dev,c-classification,saturation,s-std.dev,s-classification,transparency,t-std.dev,t-classification,symmetry,sm-std.dev,sm-classification,combination
+Alvar Aalto,0.2313,0.1623,rectilinear,0.3634,0.3258,muted,0.3086,0.2447,translucent,0.3461,0.1937,regular,type 24
+Aldo Rossi,0.2154,0.19,rectilinear,0.636,0.3626,muted,0.1846,0.1909,opaque,0.4714,0.2694,regular,type 24
+Alvaro Siza,0.2921,0.2221,rectilinear,0.4123,0.3544,muted,0.2345,0.2157,opaque,0.4507,0.2432,regular,type 24
+Antoni Gaudi,0.5725,0.2873,moderate,0.6593,0.353,muted,0.2335,0.2658,opaque,0.4437,0.2339,regular,type 15
+Bjarke Ingels,0.5146,0.2843,moderate,0.3958,0.3393,muted,0.3788,0.2608,translucent,0.476,0.2153,regular,type 14
+Christian de Portzamparc,0.4894,0.2459,moderate,0.3944,0.3304,muted,0.4718,0.3009,translucent,0.2945,0.1833,regular,type 14
+David Chipperfield,0.2391,0.179,rectilinear,0.1944,0.2616,greyscale,0.4779,0.2846,translucent,0.4936,0.214,regular,type 26
+Daniel Libeskind,0.4782,0.2487,moderate,0.3896,0.3314,muted,0.4314,0.2753,translucent,0.2687,0.1882,regular,type 14
+Frida Escobedo,0.2677,0.2014,rectilinear,0.4351,0.3722,muted,0.418,0.3029,translucent,0.5718,0.2709,regular,type 23
+Frank Gehry,0.6284,0.2811,moderate,0.3976,0.3377,muted,0.3608,0.2839,opaque,0.2605,0.2132,asymmetric,type 15
+Frank Lloyd Wright,0.4588,0.2304,moderate,0.5162,0.3458,muted,0.1716,0.1703,opaque,0.5953,0.2268,regular,type 15
+Leoh Ming Pei,0.3457,0.2138,moderate,0.3567,0.352,muted,0.5328,0.2946,translucent,0.4958,0.2287,regular,type 14
+Jean Nouvel,0.4127,0.2954,moderate,0.5509,0.3845,muted,0.5328,0.3371,translucent,0.3528,0.235,regular,type 14
+Luis Barragan,0.1484,0.0921,rectilinear,0.8636,0.2016,colorful,0.1246,0.0762,opaque,0.4033,0.1294,regular,type 21
+Le Corbusier,0.2469,0.1687,rectilinear,0.4139,0.3394,muted,0.2007,0.2204,opaque,0.3351,0.1777,regular,type 24
+Louis Kahn,0.3556,0.1978,moderate,0.4582,0.3355,muted,0.2028,0.2484,opaque,0.6151,0.2227,regular,type 15
+Mario Bota,0.4913,0.2685,moderate,0.5657,0.3262,muted,0.2452,0.2235,opaque,0.3556,0.2387,regular,type 15
+Mies Van Der Rohe,0.2153,0.1485,rectilinear,0.2219,0.2538,greyscale,0.4371,0.2874,translucent,0.5515,0.2305,regular,type 26
+Norman Foster,0.5722,0.2418,moderate,0.4303,0.3355,muted,0.3814,0.2806,translucent,0.5164,0.2361,regular,type 14
+Oscar Niemeyer,0.7005,0.2479,curvilinear,0.7374,0.3048,colorful,0.2538,0.2773,opaque,0.7635,0.211,regular,type 3
+Peter Zumthor,0.3538,0.2206,moderate,0.3206,0.3066,greyscale,0.2561,0.2912,opaque,0.4665,0.2271,regular,type 18
+Richard Meier,0.4575,0.2169,moderate,0.2766,0.2717,muted,0.4812,0.2704,translucent,0.4167,0.207,regular,type 14
+Richard Rogers,0.4234,0.2144,moderate,0.7035,0.3248,greyscale,0.6373,0.2612,translucent,0.4557,0.1986,regular,type 17
+Rem Koolhaas,0.362,0.2139,moderate,0.4056,0.3173,muted,0.4809,0.3095,translucent,0.3651,0.1879,regular,type 14
+Renzo Piano,0.4955,0.2807,moderate,0.4707,0.3466,colorful,0.4949,0.2922,translucent,0.4949,0.2419,regular,type 11
+Robert Venturi,0.3306,0.1761,rectilinear,0.5322,0.3341,muted,0.2282,0.2405,opaque,0.5292,0.2504,regular,type 24
+Shigeru Ban,0.558,0.2827,moderate,0.6682,0.2996,colorful,0.3707,0.3097,translucent,0.6908,0.2287,symmetric,type 11
+SANAA,0.4254,0.2874,moderate,0.2765,0.2525,muted,0.5974,0.27,translucent,0.5043,0.2071,regular,type 14
+Tadao Ando,0.376,0.288,rectilinear,0.3031,0.3241,greyscale,0.4115,0.3189,opaque,0.4872,0.2515,regular,type 27
+Zaha Hadid,0.7907,0.2113,curvilinear,0.4153,0.3076,muted,0.2759,0.2256,opaque,0.3459,0.1912,regular,type 6

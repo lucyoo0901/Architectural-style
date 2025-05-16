@@ -1,4 +1,4 @@
-﻿Style,curvature,c-std.dev,c-classification,saturation,s-std.dev,s-classification,transparency,t-std.dev,t-classification,symmetry,sm-std.dev,sm-classification,combination
+﻿Style,curv.,c-std.dev,c-classification,satu.,s-std.dev,s-classification,tran.,t-std.dev,t-classification,symm.,sm-std.dev,sm-classification,combination
 21st Century Museum of Contemporary Art (2004),0.3562,0.2562,rectilinear,0.2151,0.2151,muted,0.7374,0.7374,translucent,0.6494,0.4494,Ishikawa Japan,2004
 Dior Building Omotesando (2004),0.1174,0.1174,rectilinear,0.0146,0.0146,muted,0.9597,0.9597,opaque,0.6814,0.1814,Tokyo Japan,2004
 Factory Building on the Vitra Campus (2012),0.3557,0.1557,rectilinear,0.0793,0.0793,muted,0.1251,0.3251,opaque,0.8396,0.8396,Weil Am Rhein Germany,2012

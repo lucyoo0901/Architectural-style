@@ -1,28 +1,28 @@
-Style	curvature	c-std.dev	c-classification	saturation	s-std.dev	s-classification	transparency	t-std.dev	t-classification	symmetry	sm-std.dev	sm-classification	combination
-Dr. Chau Chuck Wing Building 8 (1)	0.84	0.84	rectilinear	0.53	0.53	greyscale	0.57	0.57	transparent	0.38	0.38	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (2)	0.8	0.8	rectilinear	0.48	0.48	greyscale	0.61	0.61	transparent	0.19	0.19	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (3)	0.64	0.64	rectilinear	0.48	0.48	greyscale	0.61	0.61	transparent	0.3	0.3	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (4)	0.82	0.82	rectilinear	0.47	0.47	greyscale	0.57	0.57	transparent	0.38	0.38	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (5)	0.78	0.78	rectilinear	0.52	0.52	greyscale	0.5	0.5	transparent	0.31	0.31	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (6)	0.74	0.74	rectilinear	0.58	0.58	greyscale	0.6	0.6	transparent	0.23	0.23	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (7)	0.66	0.66	rectilinear	0.49	0.49	greyscale	0.52	0.52	transparent	0.3	0.3	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (8)	0.67	0.67	rectilinear	0.51	0.51	greyscale	0.4	0.4	transparent	0.23	0.23	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (9)	0.71	0.71	rectilinear	0.5	0.5	greyscale	0.54	0.54	transparent	0.16	0.16	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (10)	0.72	0.72	rectilinear	0.56	0.56	greyscale	0.63	0.63	transparent	0.14	0.14	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (11)	0.75	0.75	rectilinear	0.47	0.47	greyscale	0.62	0.62	transparent	0.35	0.35	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (12)	0.79	0.79	rectilinear	0.53	0.53	greyscale	0.42	0.42	transparent	0.32	0.32	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (13)	0.81	0.81	rectilinear	0.5	0.5	greyscale	0.56	0.56	transparent	0.39	0.39	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (14)	0.85	0.85	rectilinear	0.51	0.51	greyscale	0.55	0.55	transparent	0.22	0.22	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (15)	0.7	0.7	rectilinear	0.59	0.59	greyscale	0.47	0.47	transparent	0.17	0.17	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (16)	0.71	0.71	rectilinear	0.6	0.6	greyscale	0.49	0.49	transparent	0.34	0.34	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (17)	0.65	0.65	rectilinear	0.6	0.6	greyscale	0.45	0.45	transparent	0.17	0.17	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (18)	0.76	0.76	rectilinear	0.52	0.52	greyscale	0.58	0.58	transparent	0.15	0.15	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (19)	0.7	0.7	rectilinear	0.56	0.56	greyscale	0.62	0.62	transparent	0.22	0.22	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (20)	0.26	0.26	rectilinear	0.16	0.16	greyscale	0.9	0.9	transparent	0.24	0.24	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (21)	0.2	0.2	rectilinear	0.12	0.12	greyscale	0.8	0.8	transparent	0.4	0.4	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (22)	0.13	0.13	rectilinear	0.15	0.15	greyscale	0.8	0.8	transparent	0.39	0.39	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (23)	0.18	0.18	rectilinear	0.14	0.14	greyscale	0.92	0.92	transparent	0.29	0.29	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (24)	0.19	0.19	rectilinear	0.08	0.08	greyscale	0.81	0.81	transparent	0.19	0.19	Tokyo Japan	2004
-Dr. Chau Chuck Wing Building 8 (25)	0.24	0.24	rectilinear	0.15	0.15	greyscale	0.93	0.93	transparent	0.2	0.2	Tokyo Japan	2005
-Dr. Chau Chuck Wing Building 8 (26)	0.13	0.13	rectilinear	0.16	0.16	greyscale	0.88	0.88	transparent	0.15	0.15	Tokyo Japan	2006
-Dr. Chau Chuck Wing Building 8 (27)	0.15	0.15	rectilinear	0.12	0.12	greyscale	0.92	0.92	transparent	0.13	0.13	Tokyo Japan	2007
+Style,curvature,c-std.dev,c-classification,saturation,s-std.dev,s-classification,transparency,t-std.dev,t-classification,symmetry,sm-std.dev,sm-classification,combination
+Dr. Chau Chuck Wing Building 8 (1),0.84,0.84,rectilinear,0.53,0.53,greyscale,0.57,0.57,transparent,0.38,0.38,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (2),0.8,0.8,rectilinear,0.48,0.48,greyscale,0.61,0.61,transparent,0.19,0.19,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (3),0.64,0.64,rectilinear,0.48,0.48,greyscale,0.61,0.61,transparent,0.3,0.3,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (4),0.82,0.82,rectilinear,0.47,0.47,greyscale,0.57,0.57,transparent,0.38,0.38,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (5),0.78,0.78,rectilinear,0.52,0.52,greyscale,0.5,0.5,transparent,0.31,0.31,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (6),0.74,0.74,rectilinear,0.58,0.58,greyscale,0.6,0.6,transparent,0.23,0.23,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (7),0.66,0.66,rectilinear,0.49,0.49,greyscale,0.52,0.52,transparent,0.3,0.3,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (8),0.67,0.67,rectilinear,0.51,0.51,greyscale,0.4,0.4,transparent,0.23,0.23,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (9),0.71,0.71,rectilinear,0.5,0.5,greyscale,0.54,0.54,transparent,0.16,0.16,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (10),0.72,0.72,rectilinear,0.56,0.56,greyscale,0.63,0.63,transparent,0.14,0.14,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (11),0.75,0.75,rectilinear,0.47,0.47,greyscale,0.62,0.62,transparent,0.35,0.35,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (12),0.79,0.79,rectilinear,0.53,0.53,greyscale,0.42,0.42,transparent,0.32,0.32,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (13),0.81,0.81,rectilinear,0.5,0.5,greyscale,0.56,0.56,transparent,0.39,0.39,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (14),0.85,0.85,rectilinear,0.51,0.51,greyscale,0.55,0.55,transparent,0.22,0.22,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (15),0.7,0.7,rectilinear,0.59,0.59,greyscale,0.47,0.47,transparent,0.17,0.17,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (16),0.71,0.71,rectilinear,0.6,0.6,greyscale,0.49,0.49,transparent,0.34,0.34,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (17),0.65,0.65,rectilinear,0.6,0.6,greyscale,0.45,0.45,transparent,0.17,0.17,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (18),0.76,0.76,rectilinear,0.52,0.52,greyscale,0.58,0.58,transparent,0.15,0.15,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (19),0.7,0.7,rectilinear,0.56,0.56,greyscale,0.62,0.62,transparent,0.22,0.22,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (20),0.26,0.26,rectilinear,0.16,0.16,greyscale,0.9,0.9,transparent,0.24,0.24,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (21),0.2,0.2,rectilinear,0.12,0.12,greyscale,0.8,0.8,transparent,0.4,0.4,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (22),0.13,0.13,rectilinear,0.15,0.15,greyscale,0.8,0.8,transparent,0.39,0.39,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (23),0.18,0.18,rectilinear,0.14,0.14,greyscale,0.92,0.92,transparent,0.29,0.29,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (24),0.19,0.19,rectilinear,0.08,0.08,greyscale,0.81,0.81,transparent,0.19,0.19,Tokyo Japan,2004
+Dr. Chau Chuck Wing Building 8 (25),0.24,0.24,rectilinear,0.15,0.15,greyscale,0.93,0.93,transparent,0.2,0.2,Tokyo Japan,2005
+Dr. Chau Chuck Wing Building 8 (26),0.13,0.13,rectilinear,0.16,0.16,greyscale,0.88,0.88,transparent,0.15,0.15,Tokyo Japan,2006
+Dr. Chau Chuck Wing Building 8 (27),0.15,0.15,rectilinear,0.12,0.12,greyscale,0.92,0.92,transparent,0.13,0.13,Tokyo Japan,2007
